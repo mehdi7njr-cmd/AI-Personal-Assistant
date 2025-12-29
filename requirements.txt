@@ -1,0 +1,14 @@
+```text
+    customtkinter
+    SpeechRecognition
+    google-generativeai
+    edge-tts
+    pygame
+    pvporcupine
+    pvrecorder
+    pywhatkit
+    psutil
+    pyautogui
+    requests
+    packaging
+    ```
