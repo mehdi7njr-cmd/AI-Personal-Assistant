@@ -8,8 +8,8 @@
 
 ## 📸 Demo
 
-![App Screenshot](screenshot.png)
-*(Place your screenshot here)*
+<img width="1920" height="1080" alt="screenshot_20251229_132008" src="https://github.com/user-attachments/assets/19c64bf0-be58-4abd-9a92-593ee307ee53" />
+
 
 ## 📖 Overview
 
@@ -45,7 +45,7 @@ The application features a modern, dark-themed GUI built with **CustomTkinter** 
 ## 🚀 Installation & Setup
 
 1. **Clone the repository:**
-   git clone https://github.com/YOUR_USERNAME/Jarvis-AI-Assistant.git
+   git clone https://github.com/mehdi7njr-cmd/AI-Personal-Assistant.git
    cd Jarvis-AI-Assistant
    
 2. Install dependencies:
